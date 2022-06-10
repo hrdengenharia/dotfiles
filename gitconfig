@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hrdengenharia@gmail.com
+	name = hrd engenharia
